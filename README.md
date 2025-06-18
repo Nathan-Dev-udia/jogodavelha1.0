@@ -1,42 +1,31 @@
-# 🎮 Jogo da Velha 1.0
+# 🧪 Jogo da Velha 1.0 — Projeto de Estudo com XAML
 
-Um jogo da velha simples desenvolvido como parte de um estudo prático de **XAML**. O objetivo principal foi experimentar a construção de interfaces com XAML no lugar do tradicional Windows Forms, utilizando lógica básica para treinar eventos e interatividade.
-
----
-
-## ✨ Funcionalidades
-
-- Interface gráfica com XAML;
-- Jogador contra jogador (local);
-- Detecção de vitória e empate;
-- Reinício de partida.
+Este é um projeto experimental simples desenvolvido com o objetivo de **testar e praticar a criação de interfaces gráficas usando XAML**, em contraste com Windows Forms.  
+A lógica do jogo é básica (Jogo da Velha para dois jogadores), e o foco principal foi a estrutura da interface.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🎯 Objetivo do projeto
 
-- **C#**;
-- **.NET**;
-- **XAML** (WPF);
-- **Visual Studio**.
-
----
-
-## 🚀 Como rodar
-
-1. Abra o projeto no **Visual Studio**
-2. Compile e execute (`F5`)
-3. Aproveite o jogo!
+- Explorar o uso do **XAML** em projetos desktop;
+- Entender a separação entre interface e lógica de programação;
+- Comparar a experiência de desenvolvimento entre **XAML** e **Windows Forms**.
 
 ---
 
-## 📚 Objetivo do projeto
+## 🛠️ Tecnologias
 
-Esse projeto foi criado unicamente para fins de **aprendizado**, explorando:
-- A estrutura e sintaxe do XAML;
-- Manipulação de eventos com C#;
-- Diferenças entre XAML e Windows Forms.
+- **C#**
+- **XAML**
+- **.NET Framework / Visual Studio**
 
 ---
 
-> Feito por [Nathan Fernandes Alves](https://github.com/Nathan-Dev-udia) — em constante evolução.
+## ✅ Status
+
+📌 Finalizado como estudo.  
+Não é um sistema completo nem está em produção — apenas uma prática de fundamentos.
+
+---
+
+> Projeto criado por Nathan Fernandes Alves — explorando novas tecnologias e evoluindo um passo por vez.
